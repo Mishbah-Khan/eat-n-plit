@@ -1,4 +1,4 @@
-# Mishbah Khan
+# Auther: Mishbah Khan
 
 <h1>Eat N Split</h1>
 <p>
