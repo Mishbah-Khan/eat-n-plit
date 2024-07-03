@@ -78,6 +78,7 @@ function App() {
         <CalculationBox
           selectedFriend={selectedFriend}
           billSplit={handleBillSplit}
+          key={selectedFriend.id}
         />
       )}
     </div>
